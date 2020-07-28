@@ -1,5 +1,5 @@
 # Lecture-notes-on-light-harvesting
-An update on summer school lectures notes, prepared for an invited lecture at the University of Tokyo.  
+An update on summer school lectures notes published hee https://github.com/nwlambert/lectures, prepared for an invited lecture at the University of Tokyo.  
 
 This update focuses more on photosynthetic light-harvesting, and generalizes the derivation of the standard master equation.  
 
